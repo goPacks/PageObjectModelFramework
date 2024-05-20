@@ -1,0 +1,8 @@
+2024-05-16, 09:45:21,[INF], Balance Transfer Request,1,I navigate to CtasCore at @"https://ctas-mtra.intranet.pajak.go.id/home/en-US/",Pass,
+2024-05-16, 09:45:21,[INF], Balance Transfer Request,1,I enter "wahyu.agungsugimartanto" as userId and "Pajak123" as Password,Pass,
+2024-05-16, 09:45:21,[INF], Balance Transfer Request,1,I press Login Button,Pass,
+2024-05-16, 09:45:21,[INF], Balance Transfer Request,1,I am on page titled "Home",Pass,
+2024-05-16, 09:45:27,[INF], Balance Transfer Request,1,I click on Core Home Menu label "Payment",Pass,
+2024-05-16, 09:45:30,[INF], Balance Transfer Request,1,I click on Core Home SubMenu label "Balance Transfer Request",Pass,
+2024-05-16, 09:45:30,[INF], Balance Transfer Request,1,I am on page titled "Payment",Pass,
+2024-05-16, 09:45:30,[INF], Balance Transfer Request,1,I click on Create New Balance Transfer Request menu,Pass,

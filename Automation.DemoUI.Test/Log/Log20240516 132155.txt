@@ -1,0 +1,5 @@
+2024-05-16, 13:22:01,[INF], Monitoring for Overpayment and Interest Compensation,1,I navigate to CtasCore at @"https://ctas-mtra.intranet.pajak.go.id/home/en-US/",Pass,
+2024-05-16, 13:22:01,[INF], Monitoring for Overpayment and Interest Compensation,1,I enter "wahyu.agungsugimartanto" as userId and "Pajak123" as Password,Pass,
+2024-05-16, 13:22:01,[INF], Monitoring for Overpayment and Interest Compensation,1,I press Login Button,Pass,
+2024-05-16, 13:22:01,[INF], Monitoring for Overpayment and Interest Compensation,1,I am on page titled "Home",Pass,
+2024-05-16, 13:22:03,[INF], Monitoring for Overpayment and Interest Compensation,1,I click on Core Home Menu label "Reports",Pass,

@@ -1,0 +1,6 @@
+2024-05-17, 14:14:46,[INF], 4.Creation of billing code from Tax Return (portal),1,I navigate to TpPortal at @"https://tpportal-mtra.intranet.pajak.go.id",Pass,
+2024-05-17, 14:14:47,[INF], 4.Creation of billing code from Tax Return (portal),1,I will enter "1091031210910452" as TIN and "VOTAqg2zRCX5hQxK" as Password,Pass,
+2024-05-17, 14:14:47,[INF], 4.Creation of billing code from Tax Return (portal),1,I will click on Login Button,Pass,
+2024-05-17, 14:14:47,[INF], 4.Creation of billing code from Tax Return (portal),1,I am on page titled "Registration Portal",Pass,
+2024-05-17, 14:14:50,[INF], 4.Creation of billing code from Tax Return (portal),1,I click on Portal Home Menu label "eBUPOT (Withholding Slips)",Pass,
+2024-05-17, 14:14:56,[INF], 4.Creation of billing code from Tax Return (portal),1,I click on Portal Home SubMenu label "BPU",Pass,

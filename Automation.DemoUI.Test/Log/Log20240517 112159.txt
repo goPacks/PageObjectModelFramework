@@ -1,0 +1,5 @@
+2024-05-17, 11:22:02,[INF], 3.Automatic Balance Transfer from Tax Return,1,I navigate to TpPortal at @"https://tpportal-mtra.intranet.pajak.go.id",Pass,
+2024-05-17, 11:22:06,[INF], 3.Automatic Balance Transfer from Tax Return,1,I will enter "1091031210910452" as TIN and "VOTAqg2zRCX5hQxK" as Password,Pass,
+2024-05-17, 11:22:06,[INF], 3.Automatic Balance Transfer from Tax Return,1,I will click on Login Button,Pass,
+2024-05-17, 11:22:06,[INF], 3.Automatic Balance Transfer from Tax Return,1,I am on page titled "Registration Portal",Pass,
+2024-05-17, 11:23:06,[ERR], Error while clicking element. The HTTP request to the remote WebDriver server for URL http://localhost:57220/session/9fe5f4275b7cb68b8d6dfe852d4d6e08/element/f.A2AC6C4964190382ACB2F4DF9C3F43AC.d.FFF6AF862CF767EF9E987BF5283E6EB9.e.2624/click timed out after 60 seconds.

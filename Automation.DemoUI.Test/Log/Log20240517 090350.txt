@@ -1,0 +1,7 @@
+2024-05-17, 09:03:55,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I navigate to TpPortal at @"https://tpportal-mtra.intranet.pajak.go.id",Pass,
+2024-05-17, 09:03:55,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I will enter "1091031210910452" as TIN and "VOTAqg2zRCX5hQxK" as Password,Pass,
+2024-05-17, 09:03:55,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I will click on Login Button,Pass,
+2024-05-17, 09:03:55,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I am on page titled "Registration Portal",Pass,
+2024-05-17, 09:03:56,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I click on Portal Home Menu label "Payment",Pass,
+2024-05-17, 09:03:58,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I click on Portal Home SubMenu label "Tax Arrears Billing Code",Pass,
+2024-05-17, 09:03:59,[INF], 1.Automatic Balance Transfer from Tax Arrears,1,I will AutoBalTransferFromTaxArrears on Portal Payment Page,Pass,

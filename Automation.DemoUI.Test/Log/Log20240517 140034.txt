@@ -1,0 +1,6 @@
+2024-05-17, 14:00:42,[INF], 3. Balance Transfer Reallocation Request Monitoring,1,I navigate to CtasCore at @"https://ctas-mtra.intranet.pajak.go.id/home/en-US/",Pass,
+2024-05-17, 14:00:42,[INF], 3. Balance Transfer Reallocation Request Monitoring,1,I enter "wahyu.agungsugimartanto" as userId and "Pajak123" as Password,Pass,
+2024-05-17, 14:00:42,[INF], 3. Balance Transfer Reallocation Request Monitoring,1,I press Login Button,Pass,
+2024-05-17, 14:00:42,[INF], 3. Balance Transfer Reallocation Request Monitoring,1,I am on page titled "Home",Pass,
+2024-05-17, 14:00:44,[INF], 3. Balance Transfer Reallocation Request Monitoring,1,I click on Core Home Menu label "Reports",Pass,
+2024-05-17, 14:00:50,[INF], 3. Balance Transfer Reallocation Request Monitoring,1,I click on Core Home SubMenu label "Balance Transfer Reallocation Request Monitoring",Pass,

@@ -1,0 +1,9 @@
+{
+  "url": "https://www.saucedemo.com/",
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "guestUrl": "https://www.mytrip.com/",
+  "herokuUrl": "http://the-internet.herokuapp.com/javascript_alerts",
+  "sqlConnection": "Server=localhost\\SQLEXPRESS;Database=mtra;Trusted_Connection=True;"
+}
+

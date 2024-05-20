@@ -1,0 +1,7 @@
+2024-05-16, 12:31:06,[INF], Add Credit for Balance Transfer Request,1,I navigate to CtasCore at @"https://ctas-mtra.intranet.pajak.go.id/home/en-US/",Pass,
+2024-05-16, 12:31:06,[INF], Add Credit for Balance Transfer Request,1,I enter "admin" as userId and "Pajak123" as Password,Pass,
+2024-05-16, 12:31:06,[INF], Add Credit for Balance Transfer Request,1,I press Login Button,Pass,
+2024-05-16, 12:31:06,[INF], Add Credit for Balance Transfer Request,1,I am on page titled "Home",Pass,
+2024-05-16, 12:31:08,[INF], Add Credit for Balance Transfer Request,1,I click on Core Home Menu label "Payment",Pass,
+2024-05-16, 12:31:12,[INF], Add Credit for Balance Transfer Request,1,I click on Core Home SubMenu label "Manual Creation of Payments",Pass,
+2024-05-16, 12:31:12,[INF], Add Credit for Balance Transfer Request,1,I am on page titled "Payment",Pass,

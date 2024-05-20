@@ -1,0 +1,6 @@
+2024-05-17, 09:32:02,[INF], 3.Automatic Balance Transfer from Tax Return,1,I navigate to TpPortal at @"https://tpportal-mtra.intranet.pajak.go.id",Pass,
+2024-05-17, 09:32:02,[INF], 3.Automatic Balance Transfer from Tax Return,1,I will enter "1091031210910452" as TIN and "VOTAqg2zRCX5hQxK" as Password,Pass,
+2024-05-17, 09:32:02,[INF], 3.Automatic Balance Transfer from Tax Return,1,I will click on Login Button,Pass,
+2024-05-17, 09:32:02,[INF], 3.Automatic Balance Transfer from Tax Return,1,I am on page titled "Registration Portal",Pass,
+2024-05-17, 09:32:04,[INF], 3.Automatic Balance Transfer from Tax Return,1,I click on Portal Home Menu label "eBUPOT (Withholding Slips)",Pass,
+2024-05-17, 09:32:05,[INF], 3.Automatic Balance Transfer from Tax Return,1,I click on Portal Home SubMenu label "BPU",Pass,
