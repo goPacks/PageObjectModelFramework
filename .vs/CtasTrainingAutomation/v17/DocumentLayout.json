@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\selenium\\PageObjectModelFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|c:\\selenium\\pageobjectmodelframework\\automation.framework.core.webui\\report\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|solutionrelative:automation.framework.core.webui\\report\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|c:\\selenium\\pageobjectmodelframework\\automation.framework.core.webui\\report\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|solutionrelative:automation.framework.core.webui\\report\\extentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|c:\\selenium\\pageobjectmodelframework\\automation.framework.core.webui\\params\\defaultvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|solutionrelative:automation.framework.core.webui\\params\\defaultvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|c:\\selenium\\pageobjectmodelframework\\automation.framework.core.webui\\selenium\\localwebdrivers\\chromewebdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC05EC5-B9E8-4E35-B856-3662CADABFB9}|Automation.Framework.Core.WebUI\\Automation.Framework.Core.WebUI.csproj|solutionrelative:automation.framework.core.webui\\selenium\\localwebdrivers\\chromewebdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui.test\\resources\\frameworksettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|solutionrelative:automation.demoui.test\\resources\\frameworksettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui.test\\resources\\applicationconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|solutionrelative:automation.demoui.test\\resources\\applicationconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui.test\\testcases\\pmt.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|solutionrelative:automation.demoui.test\\testcases\\pmt.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui.test\\namestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|solutionrelative:automation.demoui.test\\namestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui.test\\testcases\\pmt.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EFBC0B-5064-4847-B449-100DC58F1A01}|Automation.DemoUI.Test\\Automation.DemoUI.Test.csproj|solutionrelative:automation.demoui.test\\testcases\\pmt.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B824E-D393-4D1F-AEAD-2553721F87CD}|Automation.DemoUI\\Automation.DemoUI.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui\\pages\\core\\corepaymentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B824E-D393-4D1F-AEAD-2553721F87CD}|Automation.DemoUI\\Automation.DemoUI.csproj|solutionrelative:automation.demoui\\pages\\core\\corepaymentpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B824E-D393-4D1F-AEAD-2553721F87CD}|Automation.DemoUI\\Automation.DemoUI.csproj|c:\\selenium\\pageobjectmodelframework\\automation.demoui\\steps\\core\\corepaymentsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B824E-D393-4D1F-AEAD-2553721F87CD}|Automation.DemoUI\\Automation.DemoUI.csproj|solutionrelative:automation.demoui\\steps\\core\\corepaymentsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 258,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Report\\Logging.cs",
+              "RelativeDocumentMoniker": "Automation.Framework.Core.WebUI\\Report\\Logging.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Report\\Logging.cs",
+              "RelativeToolTip": "Automation.Framework.Core.WebUI\\Report\\Logging.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:47:39.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentReport.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Report\\ExtentReport.cs",
+              "RelativeDocumentMoniker": "Automation.Framework.Core.WebUI\\Report\\ExtentReport.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Report\\ExtentReport.cs",
+              "RelativeToolTip": "Automation.Framework.Core.WebUI\\Report\\ExtentReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:47:34.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultVariables.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Params\\DefaultVariables.cs",
+              "RelativeDocumentMoniker": "Automation.Framework.Core.WebUI\\Params\\DefaultVariables.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Params\\DefaultVariables.cs",
+              "RelativeToolTip": "Automation.Framework.Core.WebUI\\Params\\DefaultVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:07:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChromeWebDriver.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Selenium\\LocalWebDrivers\\ChromeWebDriver.cs",
+              "RelativeDocumentMoniker": "Automation.Framework.Core.WebUI\\Selenium\\LocalWebDrivers\\ChromeWebDriver.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.Framework.Core.WebUI\\Selenium\\LocalWebDrivers\\ChromeWebDriver.cs",
+              "RelativeToolTip": "Automation.Framework.Core.WebUI\\Selenium\\LocalWebDrivers\\ChromeWebDriver.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:03:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "applicationConfig.json",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\Resources\\applicationConfig.json",
+              "RelativeDocumentMoniker": "Automation.DemoUI.Test\\Resources\\applicationConfig.json",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\Resources\\applicationConfig.json",
+              "RelativeToolTip": "Automation.DemoUI.Test\\Resources\\applicationConfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T07:02:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NameStepDefinitions.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\NameStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Automation.DemoUI.Test\\NameStepDefinitions.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\NameStepDefinitions.cs",
+              "RelativeToolTip": "Automation.DemoUI.Test\\NameStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:54:49.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PMT.feature.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\TestCases\\PMT.feature.cs",
+              "RelativeDocumentMoniker": "Automation.DemoUI.Test\\TestCases\\PMT.feature.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\TestCases\\PMT.feature.cs",
+              "RelativeToolTip": "Automation.DemoUI.Test\\TestCases\\PMT.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:48:44.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frameworkSettings.json",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\Resources\\frameworkSettings.json",
+              "RelativeDocumentMoniker": "Automation.DemoUI.Test\\Resources\\frameworkSettings.json",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\Resources\\frameworkSettings.json",
+              "RelativeToolTip": "Automation.DemoUI.Test\\Resources\\frameworkSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAADGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T03:10:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CorePaymentSteps.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI\\Steps\\Core\\CorePaymentSteps.cs",
+              "RelativeDocumentMoniker": "Automation.DemoUI\\Steps\\Core\\CorePaymentSteps.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI\\Steps\\Core\\CorePaymentSteps.cs",
+              "RelativeToolTip": "Automation.DemoUI\\Steps\\Core\\CorePaymentSteps.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv0EAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:58:04.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CorePaymentPage.cs",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI\\Pages\\Core\\CorePaymentPage.cs",
+              "RelativeDocumentMoniker": "Automation.DemoUI\\Pages\\Core\\CorePaymentPage.cs",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI\\Pages\\Core\\CorePaymentPage.cs",
+              "RelativeToolTip": "Automation.DemoUI\\Pages\\Core\\CorePaymentPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:57:14.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PMT.feature",
+              "DocumentMoniker": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\TestCases\\PMT.feature",
+              "RelativeDocumentMoniker": "Automation.DemoUI.Test\\TestCases\\PMT.feature",
+              "ToolTip": "C:\\selenium\\PageObjectModelFramework\\Automation.DemoUI.Test\\TestCases\\PMT.feature",
+              "RelativeToolTip": "Automation.DemoUI.Test\\TestCases\\PMT.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-17T07:54:13.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
